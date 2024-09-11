@@ -1,2 +1,2 @@
-# Swift-Medio
- Programas em Swift de nivel medio
+# Swift-Intermediario
+ Programas em Swift de nivel intermediario
