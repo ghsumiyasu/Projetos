@@ -7,3 +7,6 @@
 ### 05 - Linha 05 - Continuando a colocar mais linha e quarto commit"
 ### 06 - Linha 06 - Continuando a colocar mais linha e quinto commit"
 ### 07 - Linha 07 - Continuando a colocar mais linha e quinto commit"
+
+
+### 10 - Linha 10 - Pulei 2 linhas 9 e 10 no sexto commit"
