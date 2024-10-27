@@ -11,3 +11,7 @@
 
 ### 10 - Linha 10 - Pulei 2 linhas 9 e 10 no sexto commit
 ### 11 - Linha 11 - Pulei 2 linhas 9 e 10 no sexto commit
+
+### 13 - Linha 13 - Pulei 1 linha e acrescentei a linha 13, 14 e 15 no oitavo commit
+### 14 - Linha 14 - Pulei 1 linha e acrescentei a linha 13, 14 e 15 no oitavo commit
+### 15 - Linha 15 - Pulei 1 linha e acrescentei a linha 13, 14 e 15 no oitavo commit
